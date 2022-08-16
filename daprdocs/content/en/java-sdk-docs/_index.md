@@ -31,7 +31,7 @@ For a Maven project, add the following to your `pom.xml` file:
     <dependency>
       <groupId>io.dapr</groupId>
       <artifactId>dapr-sdk</artifactId>
-      <version>1.6.0</version>
+      <version>1.6.0</version> 
     </dependency>
     <!-- Dapr's SDK for Actors (optional). -->
     <dependency>
